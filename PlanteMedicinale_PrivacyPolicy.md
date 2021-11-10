@@ -1,5 +1,3 @@
-
-
 Privacy Policy for Plante Medicinale
 
 Welcome to the Plante Medicinale app for Android!
@@ -26,6 +24,3 @@ Yours sincerely,
 Lupirion Apps.
 Romania.
 By email: LupirionApps@gmail.com
-
-    
-
