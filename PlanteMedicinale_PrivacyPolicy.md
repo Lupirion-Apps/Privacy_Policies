@@ -12,7 +12,7 @@ This Privacy Policy describes Our policies and procedures on the collection, use
 We DO NOT collect/store/use or distribute Your Personal. 
 
 
-This is a simple Android app developed by Lupirion Apps in flutter. it is only for refference of different medicinal plants. They are all hard coded and noes not even need access to the internet.
+This is a simple Android app developed by Lupirion Apps in flutter. it is only for refference of different medicinal plants. They are all hard coded and does not even need access to the internet.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
